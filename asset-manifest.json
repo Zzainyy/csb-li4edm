@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://zzainyy.github.io/csb-li4edm/static/js/main.cb67dc24.chunk.js",
+    "main.js.map": "https://zzainyy.github.io/csb-li4edm/static/js/main.cb67dc24.chunk.js.map",
+    "runtime-main.js": "https://zzainyy.github.io/csb-li4edm/static/js/runtime-main.1f50aab5.js",
+    "runtime-main.js.map": "https://zzainyy.github.io/csb-li4edm/static/js/runtime-main.1f50aab5.js.map",
+    "static/js/2.058c2d5f.chunk.js": "https://zzainyy.github.io/csb-li4edm/static/js/2.058c2d5f.chunk.js",
+    "static/js/2.058c2d5f.chunk.js.map": "https://zzainyy.github.io/csb-li4edm/static/js/2.058c2d5f.chunk.js.map",
+    "index.html": "https://zzainyy.github.io/csb-li4edm/index.html",
+    "precache-manifest.706112c5ee03db2d4c8555e0c2d535d3.js": "https://zzainyy.github.io/csb-li4edm/precache-manifest.706112c5ee03db2d4c8555e0c2d535d3.js",
+    "service-worker.js": "https://zzainyy.github.io/csb-li4edm/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f50aab5.js",
+    "static/js/2.058c2d5f.chunk.js",
+    "static/js/main.cb67dc24.chunk.js"
+  ]
+}
